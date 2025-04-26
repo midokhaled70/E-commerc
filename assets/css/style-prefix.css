@@ -2390,6 +2390,36 @@ footer {
 
   html { font-size: 17px; }
 
+  .container {
+    max-width: 750px;
+    margin: auto;
+  }
+
+
+  
+  /**
+   * #MODAL 
+   */
+
+  .modal-content {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    max-width: 750px;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+
+  .newsletter-img { display: block; }
+
+  .newsletter { text-align: left; }
+
 
 }
 
