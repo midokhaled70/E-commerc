@@ -86,5 +86,3 @@ for (let i = 0; i < accordionBtn.length; i++) {
   });
 
 }
-const f=4;
-console.log(f);
