@@ -1,4 +1,4 @@
-# MIDOKHaled E-commerce Footer & UI Components
+# MIDOKHaled E-commerce  & UI Components
 
 This project is a responsive footer section and reusable UI components (modal, notification toast, mobile menu, accordion) designed for an e-commerce website. It uses vanilla HTML, CSS, and JavaScript with Ionicons for icons.
 
