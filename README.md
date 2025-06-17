@@ -51,4 +51,4 @@ This project is a responsive footer section and reusable UI components (modal, n
     - payment.png     # Payment method image used in footer
 index.html            # Main HTML file containing the footer and UI markup
 README.md             # This documentation file
-
+## Author
